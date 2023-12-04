@@ -1,0 +1,84 @@
+{
+  "fixedExpenses": [
+    {
+      "id": "exp-fexp-1011",
+      "name": "Rent"
+    },
+    {
+      "id": "exp-fexp-1012",
+      "name": "Utilities"
+    },
+    {
+      "id": "exp-fexp-1013",
+      "name": "Groceries"
+    },
+    {
+      "id": "exp-fexp-1014",
+      "name": "Transportation"
+    },
+    {
+      "id": "exp-fexp-1015",
+      "name": "Insurance"
+    },
+    {
+      "id": "exp-fexp-1016",
+      "name": "Phone Bill"
+    },
+    {
+      "id": "exp-fexp-1017",
+      "name": "Internet"
+    },
+    {
+      "id": "exp-fexp-1018",
+      "name": "Health Insurance"
+    },
+    {
+      "id": "exp-fexp-1019",
+      "name": "Savings"
+    },
+    {
+      "id": "exp-fexp-1020",
+      "name": "Entertainment"
+    },
+    {
+      "id": "exp-fexp-1021",
+      "name": "Gym Membership"
+    },
+    {
+      "id": "exp-fexp-1022",
+      "name": "Subscriptions"
+    },
+    {
+      "id": "exp-fexp-1023",
+      "name": "Coffee"
+    },
+    {
+      "id": "exp-fexp-1024",
+      "name": "Lunch"
+    },
+    {
+      "id": "exp-fexp-1025",
+      "name": "Dinner"
+    },
+    {
+      "id": "exp-fexp-1026",
+      "name": "Snacks"
+    },
+    {
+      "id": "exp-fexp-1027",
+      "name": "Laundry"
+    },
+    {
+      "id": "exp-fexp-1028",
+      "name": "Pet Care"
+    },
+    {
+      "id": "exp-fexp-1029",
+      "name": "Haircut"
+    },
+    {
+      "id": "exp-fexp-1030",
+      "name": "Miscellaneous"
+    }
+  ]
+}
